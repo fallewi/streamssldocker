@@ -20,4 +20,4 @@ This simple project uses Traefik as a reverse proxy to a Streamlit application a
 3. `sudo docker-compose -f production.yml up --build`
 
 ### Notes:
-Feel free to make a PR or get in contact with me on Discord at yoyojoe#5510.
+Feel free to make a PR or get in contact with me fallewi@gmail.com.
